@@ -1,8 +1,6 @@
 # Frontend
 
 ## Beginner
-
-## Beginner
 ### [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Beginner to Intermediate
