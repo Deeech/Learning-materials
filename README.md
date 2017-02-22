@@ -4,7 +4,7 @@
 
 ### Javascript
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-
+* [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.8hwjggwgc)
 ### Tools
 * [A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
 
