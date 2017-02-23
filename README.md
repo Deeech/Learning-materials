@@ -10,6 +10,7 @@
 
 ## Beginner to Intermediate
 * [JavaScript30](https://javascript30.com/)
+* [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
 
 ## Intermediate to Advanced
 
