@@ -9,6 +9,7 @@
 ### Tools
 * [A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
 * [learngitbranching](http://learngitbranching.js.org/)
+* [Sublime Text Documentation](https://www.sublimetext.com/docs/3/)
 
 ## Beginner to Intermediate
 * [JavaScript30](https://javascript30.com/)
