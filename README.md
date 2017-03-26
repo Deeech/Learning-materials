@@ -6,11 +6,6 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.8hwjggwgc)
 
-### Tools
-* [A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
-* [learngitbranching](http://learngitbranching.js.org/)
-* [Sublime Text Documentation](https://www.sublimetext.com/docs/3/)
-* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 
 ## Beginner to Intermediate
 * [JavaScript30](https://javascript30.com/)
@@ -31,3 +26,10 @@
 
 # Social
 * [Codepen](https://codepen.io/)
+
+### Tools
+* [A Detailed Introduction To Webpack](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
+* [learngitbranching](http://learngitbranching.js.org/)
+* [Sublime Text Documentation](https://www.sublimetext.com/docs/3/)
+* [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+* [know-it-all](https://know-it-all.io/)
