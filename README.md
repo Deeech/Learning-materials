@@ -11,6 +11,9 @@
 ### Javascript
 * [JavaScript30](https://javascript30.com/)
 
+### Git
+* [learngitbranching](http://learngitbranching.js.org/)
+
 ### React
 * [How to do Simple Form Validation in Reactjs](https://hackernoon.com/how-to-do-simple-form-validation-in-reactjs-83b92c080b67#.rg9a3nuem)
 * [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
