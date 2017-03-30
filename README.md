@@ -10,6 +10,7 @@
 
 ### Javascript
 * [JavaScript30](https://javascript30.com/)
+* [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ### Git
 * [learngitbranching](http://learngitbranching.js.org/)
