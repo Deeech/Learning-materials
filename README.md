@@ -2,6 +2,9 @@
 
 ## Beginner
 
+### Html
+* [HTML5 tags](http://www.quackit.com/html_5/tags/)
+
 ### Javascript
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.8hwjggwgc)
 
