@@ -45,3 +45,4 @@
 * [Sublime Text Documentation](https://www.sublimetext.com/docs/3/)
 * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
 * [know-it-all](https://know-it-all.io/)
+* [cmdchallenge](https://cmdchallenge.com/)
