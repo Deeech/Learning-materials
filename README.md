@@ -1,26 +1,19 @@
 # Frontend
 
 ## Beginner
-
 ### Html
 * [HTML5 tags](http://www.quackit.com/html_5/tags/)
-
 ### CSS
 * [CSS properties](http://cssreference.io/)
-
 ### Javascript
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.8hwjggwgc)
 
-
 ## Beginner to Intermediate
-
 ### Javascript
 * [JavaScript30](https://javascript30.com/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
-
 ### Git
 * [learngitbranching](http://learngitbranching.js.org/)
-
 ### React
 * [How to do Simple Form Validation in Reactjs](https://hackernoon.com/how-to-do-simple-form-validation-in-reactjs-83b92c080b67#.rg9a3nuem)
 * [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
