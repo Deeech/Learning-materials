@@ -22,6 +22,7 @@
 
 ## Intermediate to Advanced
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [kirupa](https://www.kirupa.com/)
 
 ## Advanced
 
