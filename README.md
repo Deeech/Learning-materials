@@ -20,6 +20,8 @@
 ### Bash
 * [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
 
+* [20 Useful Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-docs-guides-front-end-developers/)
+
 ## Intermediate to Advanced
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [kirupa](https://www.kirupa.com/)
