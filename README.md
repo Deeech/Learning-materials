@@ -23,6 +23,7 @@
 * [20 Useful Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 More Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
 * [Another 20 Docs and Guides for Front-End Developers](https://www.sitepoint.com/another-20-docs-guides-front-end-developers/)
+* [20 Docs and Guides for Front-End Developers (No. 4)](https://www.sitepoint.com/20-docs-guides-front-end-developers-4/)
 
 ## Intermediate to Advanced
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
