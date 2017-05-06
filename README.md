@@ -38,6 +38,7 @@
 * [Treehouse](https://teamtreehouse.com/)
 * [google developers](https://developers.google.com/web/)
 * [jream](https://jream.com)
+* [sololearn](https://www.sololearn.com/)
 
 # Social
 * [Codepen](https://codepen.io/)
