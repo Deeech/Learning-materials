@@ -29,6 +29,9 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [kirupa](https://www.kirupa.com/)
 
+### Javascript
+* [Essential JavaScript Links](https://gist.github.com/tonymtz/3c11d75fa7ba7e682355)
+
 ## Advanced
 
 ### Frontend
