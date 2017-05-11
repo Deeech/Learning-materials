@@ -42,6 +42,7 @@
 * [google developers](https://developers.google.com/web/)
 * [jream](https://jream.com)
 * [sololearn](https://www.sololearn.com/)
+* [cybrary](https://www.cybrary.it)
 
 # Social
 * [Codepen](https://codepen.io/)
