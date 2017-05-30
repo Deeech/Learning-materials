@@ -60,3 +60,4 @@
 * [cmdchallenge](https://cmdchallenge.com/)
 * [10-popular-github-repos RUS](https://proglib.io/p/10-popular-github-repos/)
 * [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
+* [Hasty](https://www.wp-hasty.com/) - Generates WordPress code magically.
