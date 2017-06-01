@@ -32,6 +32,7 @@
 ### Javascript
 * [Essential JavaScript Links](https://gist.github.com/tonymtz/3c11d75fa7ba7e682355)
 * [About-Recursion-PTC-TCO-and-STC-in-JavaScript](http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html)
+* [recursion-functional-javascript](https://www.sitepoint.com/recursion-functional-javascript/)
 
 ### React
 * [react-in-patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
