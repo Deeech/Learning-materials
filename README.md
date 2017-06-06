@@ -39,6 +39,9 @@
 ### React
 * [react-in-patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
 
+### HTML/CSS
+* [gridbyexample](https://gridbyexample.com/patterns/) - A collection of built patterns to use as starting points, complete with fallbacks.
+
 ### Security
 * [cross-site-scripting-attack](https://dev.to/ben/my-all-time-favorite-demonstration-of-a-cross-site-scripting-attack) - My All-Time Favorite Demonstration of a Cross-Site Scripting Attack.
 
