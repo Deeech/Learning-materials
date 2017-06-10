@@ -8,17 +8,24 @@
 ### Javascript
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.8hwjggwgc)
 
+
 ## Beginner to Intermediate
+
 ### Javascript
 * [JavaScript30](https://javascript30.com/)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
+
 ### Git
 * [learngitbranching](http://learngitbranching.js.org/)
+
 ### React
 * [How to do Simple Form Validation in Reactjs](https://hackernoon.com/how-to-do-simple-form-validation-in-reactjs-83b92c080b67#.rg9a3nuem)
 * [Creating a Single-Page App in React using React Router](https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm)
+
 ### Bash
 * [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
+* [Конспект по bash](https://proglib.io/p/bash-notes/)
+
 
 * [20 Useful Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 More Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
