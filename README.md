@@ -24,7 +24,8 @@
 
 ### Bash
 * [bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
-* [Конспект по bash](https://proglib.io/p/bash-notes/)
+* [Конспект по bash ч. 1](https://proglib.io/p/bash-notes/)
+* [Конспект по bash ч. 2](https://proglib.io/p/bash-notes2/)
 
 
 * [20 Useful Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-docs-guides-front-end-developers/)
