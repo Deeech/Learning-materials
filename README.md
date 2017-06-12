@@ -27,6 +27,8 @@
 * [Конспект по bash ч. 1](https://proglib.io/p/bash-notes/)
 * [Конспект по bash ч. 2](https://proglib.io/p/bash-notes2/)
 
+### Sass
+* [7 Sass techniques to help you write better code](https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/)
 
 * [20 Useful Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 More Docs and Guides for Front-End Developers](https://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
