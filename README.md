@@ -27,6 +27,9 @@
 * [Конспект по bash ч. 1](https://proglib.io/p/bash-notes/)
 * [Конспект по bash ч. 2](https://proglib.io/p/bash-notes2/)
 
+### Php
+* [phptherightway](http://www.phptherightway.com/)
+
 ### Sass
 * [7 Sass techniques to help you write better code](https://www.devbridge.com/articles/7-sass-techniques-to-help-you-write-better-code/)
 
