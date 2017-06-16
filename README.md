@@ -70,7 +70,7 @@
 
 # "Libs and frameworks"
 
-# "Code schools"
+# Code schools
 * [Treehouse](https://teamtreehouse.com/)
 * [google developers](https://developers.google.com/web/)
 * [jream](https://jream.com)
