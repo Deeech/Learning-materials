@@ -71,6 +71,7 @@
 * [jream](https://jream.com)
 * [sololearn](https://www.sololearn.com/)
 * [cybrary](https://www.cybrary.it)
+* [Harvard CS109](http://cs109.github.io/2015/index.html)
 
 # Social
 * [Codepen](https://codepen.io/)
