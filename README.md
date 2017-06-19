@@ -49,6 +49,9 @@
 * [About-Recursion-PTC-TCO-and-STC-in-JavaScript](http://lucasfcosta.com/2017/05/08/All-About-Recursion-PTC-TCO-and-STC-in-JavaScript.html)
 * [recursion-functional-javascript](https://www.sitepoint.com/recursion-functional-javascript/)
 
+### WordPress
+* [How to Use Git for WordPress Development](https://premium.wpmudev.org/blog/git-for-wordpress-development/)
+
 ### React
 * [react-in-patterns](https://github.com/krasimir/react-in-patterns) - List of design patterns/techniques used while developing with React.
 
